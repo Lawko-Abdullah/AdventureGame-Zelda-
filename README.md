@@ -12,5 +12,5 @@ Ett textbaserat äventyrsspel där spelaren utforskar en värld, möter fiender 
 - Användarvänligt gränssnitt med hjälp av [Spectre.Console](https://spectreconsole.net/) för styling.
 - Clean Code och OOP-design för enkel vidareutveckling.
 
-## Komma igång
+## Made by Lawko Abdullah
 
