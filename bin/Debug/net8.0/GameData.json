@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "Health Potion",
+    "Type": "Potion",
+    "Effect": "\u00C5terst\u00E4ller 20 h\u00E4lsa",
+    "AttackPower": 0,
+    "HealAmount": 0
+  },
+  {
+    "Name": "Magic Sword",
+    "Type": "Weapon",
+    "Effect": "\u00D6kar attackkraften med 10",
+    "AttackPower": 0,
+    "HealAmount": 0
+  }
+]
